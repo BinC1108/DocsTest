@@ -1,10 +1,10 @@
-.. MES documentation master file, created by
-   sphinx-quickstart on Thu Feb 18 10:38:00 2021.
+.. DocsTest documentation master file, created by
+   sphinx-quickstart on Thu Feb 18 14:47:40 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to MES's documentation!
-===============================
+Welcome to DocsTest's documentation!
+====================================
 
 .. toctree::
    :maxdepth: 2
